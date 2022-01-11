@@ -1,11 +1,5 @@
 ```
-Intiate github
- System.out.println("Go back");
-
-If(user stay)
- Send_virus(User_Target)
-else
- System.shut.down
+System.out.Println("shuh");
 ```
 
 - :P
