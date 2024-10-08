@@ -27,16 +27,6 @@ On the side, I’ve ventured into **C# game development** using **Unity**, but m
 
 ---
 
-### 🎯 Software Maintenance: My Mission
-
-In the **Software Maintenance** course, I hope I can do the following:
-
-- 🛠️ **Refactoring web applications** to make them faster and more efficient.
-- 🔍 Understanding how to maintain large-scale web systems and **optimize legacy codebases**.
-- 🔧 Mastering tools that track bugs, improve web performance, and **ensure smooth deployment**.
-
----
-
 ### 🌱 Skills & Tools in Progress:
 
 - **React.js** – Creating responsive web interfaces.
