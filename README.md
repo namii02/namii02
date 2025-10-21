@@ -8,7 +8,7 @@
 ### 🌟 About Me
 
 I'm a developer in training focused on **web-based projects**—bringing ideas to life on the internet is where I thrive. 
-Currently, I’m honing my skills in **full-stack development**, especially with **React.js**, **Laravel**, and **PHP**. Most of my projects revolve around creating dynamic and scalable web applications.
+Currently, I’m honing my skills in **full-stack development**, especially with **Vue.js**, **Laravel**, and **PHP**. Most of my projects revolve around creating dynamic and scalable web applications.
 
 On the side, I’ve ventured into **C# game development** using **Unity**, but my true passion lies in **web technologies** that shape the digital landscape.
 
